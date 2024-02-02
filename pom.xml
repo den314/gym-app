@@ -16,7 +16,7 @@
         <junit.jupiter.version>5.4.2</junit.jupiter.version>
         <mockito-core.version>2.25.1</mockito-core.version>
         <lombok.version>1.18.6</lombok.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
     <dependencies>
